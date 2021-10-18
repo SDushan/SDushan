@@ -9,6 +9,7 @@ I made this just for fun :)
 
 
 [<img src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" alt="walpola" height="40" width="40">](https://www.linkedin.com/in/walpola/)
+[<img src="https://raw.githubusercontent.com/omidnikrah/github-readme-stackoverflow/master/stackoverflow.svg" alt="walpola" height="40" width="40">](https://stackoverflow.com/users/9432559/sdushan)
 
 
 ### Skills:
@@ -20,7 +21,7 @@ I made this just for fun :)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SDushan&show_icons=true&hide_border=true&&count_private=true&theme=react)
 
-[![SDushan StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=9432559&theme=dark&layout=compact)](https://stackoverflow.com/users/9432559/sdushan)
+![SDushan StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=9432559&theme=dark&layout=compact)
 
 
 ![Profile views](https://gpvc.arturio.dev/SDushan)  
