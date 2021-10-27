@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Samitha Walpola
 #### I am React Native & Native iOS Developer
-I made this just for fun :)
+I made this just for fun :blush:
 
 
 - 🔭 I’m currently working on React Native & iOS
@@ -20,6 +20,8 @@ I made this just for fun :)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=sdushan&show_icons=true&locale=en&layout=compact&langs_count=5&hide_border=true&theme=react&hide=powershell,java,c%23)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SDushan&show_icons=true&hide_border=true&&count_private=true&theme=react)
+
+### Stack Overflow:
 
 ![SDushan StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=9432559&theme=dark&layout=compact)
 
